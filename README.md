@@ -10,10 +10,9 @@ A simple command-line application to calculate the Cumulative Grade Point Averag
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `npm install`.
-3. Run the application by executing `node index.js`.
-4. Follow the prompts to enter semester data.
-5. The application will calculate and display the CGPA.
+2. Run the application by executing `node index.js`.
+3. Follow the prompts to enter semester data.
+4. The application will calculate and display the CGPA.
 
 ## Requirements
 - Node.js (version 14 or higher)
